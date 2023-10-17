@@ -10,7 +10,6 @@ export type FavoritesSliceType = {
 export const createFavoritesSlice : StateCreator<FavoritesSliceType> = (set, get) => ({
     favorites: [],
     handleClickFavorite: (recipe) => {
-        get().closeModal()
         if(get().favoriteExists(recipe.idDrink)) {
             set((state) => ({
                 favorites: state.favorites.filter( favorite => favorite.idDrink !== recipe.idDrink)
