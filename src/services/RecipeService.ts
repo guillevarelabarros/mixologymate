@@ -4,7 +4,7 @@ import {
   DrinksAPIResponse,
   RecipeAPIResponseSchema,
 } from '../utils/recipes-schema';
-import type { Drink, SearchFilter } from '../types';
+import type { SearchFilter } from '../types';
 
 export async function getCategories() {
   const url = 'https://www.thecocktaildb.com/api/json/v1/1/list.php?c=list';
