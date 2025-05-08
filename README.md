@@ -79,11 +79,10 @@ yarn dev
 
 ---
 
-## 📬 Contact
+## 🧑‍💻 Author
 
-If you’d like to get in touch, feel free to connect via
-[LinkedIn](https://www.linkedin.com/in/guillevarelabarros) or reach me through
-GitHub.
+**Guille Varela Barros** – [LinkedIn](www.linkedin.com/in/guillevarelabarros) |
+[Github](https://github.com/guillevarelabarros)
 
 ---
 
